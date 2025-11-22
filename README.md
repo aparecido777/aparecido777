@@ -105,7 +105,7 @@
 
   <br>
 
-![Snake animation](https://github.com/aparecido777/aparecido777/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://cdn.jsdelivr.net/gh/aparecido777/aparecido777@output/github-contribution-grid-snake.svg)
 
   <br>
 
